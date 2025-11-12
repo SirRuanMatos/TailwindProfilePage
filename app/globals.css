@@ -15,5 +15,7 @@
 @theme {
     --profile-cols: max-content 1fr min-content;
     --app-cols: minmax(18rem, 20rem) 1fr;
-    --color-ruan: #fff123;
+    --form-cols: minmax(7.5rem, 17.5rem) minmax(25rem, 1fr) minmax(0, 15rem);
+    --b-6: 6px;
+    --color-violet-25: #fcfaff;
 }
